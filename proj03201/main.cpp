@@ -19,6 +19,7 @@ vector<int> test(vector<int> vec1)
 int main()
 {
     vector<int> vec2;
+    vector<int> vec1;
     vec2.push_back(43);
     vec2.push_back(11);
     test(vec2);
